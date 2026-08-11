@@ -18,7 +18,7 @@ IHRS is a full-stack web application for securely managing patient health record
 
 **Backend**
 - Python 3, Django 5.2, Django REST Framework
-- PostgreSQL (via `psycopg2-binary`)
+- PostgreSQL 
 - Token authentication (`rest_framework.authtoken`)
 - `django-cors-headers` for CORS
 - Custom AES/RSA crypto module for record encryption
