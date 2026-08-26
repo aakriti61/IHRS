@@ -1,4 +1,4 @@
-# IHRS — Integrated Hospital Record System
+# IHRS — Interoperable Hospital Record Sharing System
 
 IHRS is a full-stack web application for securely managing patient health records across hospitals. It supports encrypted record storage, patient-controlled data consent, emergency access with mandatory review, and a tamper-evident audit trail — built as a final year project.
 
